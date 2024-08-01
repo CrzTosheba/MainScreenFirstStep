@@ -110,6 +110,7 @@ void menu_encoder_event_cb(uint8_t e)
 {
     menu_event_cb(_cont, e);
 }
+
 /**
  * Translate the object as they scroll
  */
