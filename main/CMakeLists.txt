@@ -15,6 +15,7 @@ idf_component_register(
         "image_lab/valve_off"
         "image_lab/ruler"
         "lv_pic_scheme/Main_Screen"
+        "roulette_button/but"
    
 
 

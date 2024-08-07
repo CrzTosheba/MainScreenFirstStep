@@ -3,6 +3,9 @@
     "idf.portWin": "COM7",
     "idf.flashType": "UART",
     "files.associations": {
-        "numbers": "c"
+        "numbers": "c",
+        "lv_port_fs.h": "c",
+        "but.h": "c",
+        "task.h": "c"
     }
 }

@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "MainScreenFirstStep",
-    "project_version":    "1",
+    "project_version":    "9567e26-dirty",
     "project_path":       "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep",
     "idf_path":           "C:/Users/RUCO1621/esp/v5.3/esp-idf",
     "build_dir":          "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/build",
@@ -1210,7 +1210,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/main.c", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/lv_fonts/Roboto_30", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/lib/encoder/encoder", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/bubble_big", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/bubble_small", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/drop", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/marker", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/pump_off", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/pump_on", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/scheme", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/time", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/valve", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/valve_off", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/ruler", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/lv_pic_scheme/Main_Screen" ],
+            "sources": [ "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/main.c", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/lv_fonts/Roboto_30", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/lib/encoder/encoder", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/bubble_big", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/bubble_small", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/drop", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/marker", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/pump_off", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/pump_on", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/scheme", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/time", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/valve", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/valve_off", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/image_lab/ruler", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/lv_pic_scheme/Main_Screen", "C:/Users/RUCO1621/Desktop/ECL5/MainScreenFirstStep/main/roulette_button/but" ],
             "include_dirs": [ "../components/bsp/include" ]
         },
         "mbedtls": {
